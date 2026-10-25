@@ -5,7 +5,7 @@
 ## Easy (2-4 hours)
 
 6. Bookmarks / Notes — students save lessons and write personal notes alongside content
-7. Learning Streaks — track consecutive days of learning activity, GitHub-style contribution calendar
+7. Learning Streaks — track consecutive days of learning activity, GitHub-style contribution calendar _(partially delivered by Achievement Badges: streak tracking + current/longest streak; calendar remains — see `_internal/prds/achievement-badges.md`)_
 8. Student Analytics — personal dashboard showing time spent, quiz trends, completion velocity
 9. Funnel Analysis — visualize where students drop off in a course, identify problem lessons
 10. Revenue Reports — breakdown by course, PPP tier, team vs individual, with CSV export
@@ -16,7 +16,7 @@
 12. Instructor Analytics Dashboard — revenue trends, enrollment growth, completion rates, quiz pass rates, drop-off points
 13. Admin Platform Analytics — platform-wide metrics: total revenue, active users, popular courses, conversion rates
 14. Certificates of Completion — auto-generated downloadable PDF when a student finishes a course
-15. Achievement Badges — unlockable badges like "First Course Completed", "Quiz Master", "7-Day Streak"
+15. Achievement Badges — unlockable badges like "First Course Completed", "Quiz Master", "7-Day Streak" _(specced: `_internal/prds/achievement-badges.md`)_
 16. Course Reviews & Ratings — 5-star ratings with written reviews, averages shown on course cards
 17. Live Presence Indicator — "12 students learning right now" shown on the platform
 18. Lesson Templates — predefined lesson structures (lecture, tutorial, exercise, project) for faster authoring
@@ -29,7 +29,7 @@
 
 23. In-App Notifications — bell icon with unread count for announcements, quiz results, coupon activity
 24. Webhook Integrations — fire HTTP callbacks on enrollment, purchase, and completion events for external tools
-25. Student Profiles — public profiles showing completed courses, badges, and bio
+25. Student Profiles — public profiles showing completed courses, badges, and bio _(private badges profile delivered by Achievement Badges; public profile remains)_
 26. Discussion Forum per Lesson — threaded Q&A on each lesson, instructors can pin answers
 27. Stripe Integration — real payment processing replacing the current mock purchase flow
 28. Bundle Pricing — discounted multi-course packages
